@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "Credits"
+    url: /credits
+  - title: "Donate"
+    url: /donate
+  - title: "Home"
+    url: https://cfw.guide/
+
+side:
+  - title: Guide
+    children:
+      - title: "Installer Unlaunch"
+        url: /guide/installer-unlaunch/
+      - title: "Installer HiyaCFW"
+        url: /guide/installer-hiyacfw/
+      - title: "Fin de l’installation"
+        url: /guide/fin-de-l'installation/
+
+  - title: More
+    children:
+      - title: "Hardmodding"
+        url: https://gbatemp.net/threads/dsi-downgrading-the-complete-guide.393682/
+      - title: "Updating HiyaCFW"
+        url: /more/updating-hiyacfw/
+      - title: "Dumping DSiWare from 3DS"
+        url: /more/dumping-dsiware-from-3ds/
+
+  - title: Help
+    children:
+      - title: "Discord"
+        url: /help/discord/
+      - title: "FAQ"
+        url: /help/faq/
